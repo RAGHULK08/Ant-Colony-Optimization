@@ -35,6 +35,7 @@ ant-colony-optimization/
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
+```
 
 🚀 Getting Started
 To run this project locally on your machine, follow these steps:
