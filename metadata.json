@@ -1,0 +1,5 @@
+{
+  "name": "Soft Computing Lab: Ant Colony Optimization",
+  "description": "An interactive educational platform for learning and simulating Ant Colony Optimization (ACO) algorithms, featuring real-time TSP visualization and Python implementation guides.",
+  "requestFramePermissions": []
+}
