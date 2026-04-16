@@ -1,3 +1,5 @@
+Work done under my supervision (soft computing)-Dr S S Roy
+
 # Ant Colony Optimization (ACO) Simulator 🐜
 
 **Ant Colony Optimization (ACO)** is a probabilistic algorithm inspired by the foraging behavior of real ants. To find optimal paths through graphs, artificial ants navigate a problem space and deposit virtual **pheromones** on successful routes. Over time, the strongest pheromone trails guide the entire swarm to the most efficient solutions.
